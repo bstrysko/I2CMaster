@@ -1,0 +1,6 @@
+INSTALL
+=========
+To install I2CMaster execute the following 2 commands:
+
+make
+sudo make install
